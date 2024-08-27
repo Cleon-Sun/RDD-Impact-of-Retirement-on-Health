@@ -26,3 +26,8 @@ This project analyzes the effect of retirement on health in China, using data fr
 
 5. **Appendix**
     - Contains additional regression tables, robustness checks, and diagnostic plots to support the analysis.
+
+6. **Examination of Assumptions**
+![Possibility of Reddit Posts of the Day Belonging to Labels](RD1.png)
+![Possibility of Reddit Posts of the Day Belonging to Labels](RD2.png)
+![Possibility of Reddit Posts of the Day Belonging to Labels](RD3.png)
